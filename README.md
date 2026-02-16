@@ -58,7 +58,7 @@ Tableau Desktop (for dashboard)
 1. **Clone the repository**
 ```bash
 git clone https://github.com/YOUR-USERNAME/customer-churn-ml.git
-cd customer-churn-ml
+cd Customer-Churn-ML
 ```
 
 2. **Install dependencies**
