@@ -4,7 +4,7 @@ A business-focused machine learning project that predicts telecom customer churn
 
 **ROC-AUC: 0.84 &nbsp;|&nbsp; Optimal Threshold: ~42% &nbsp;|&nbsp; Max Expected Value: $18,830 on held-out test set**
 
-🚀 **[Live Demo →](https://customer-churn-ml-c3vdsupxzcunycpgbupsp.streamlit.app)**
+🚀 **[Live Demo →](https://paramdeep-churn-predictor.streamlit.app)**
 
 ---
 
